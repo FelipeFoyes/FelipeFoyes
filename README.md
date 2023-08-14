@@ -1,7 +1,7 @@
 ### Olá! Eu sou Felipe Foyes.👋
 
 - 🔭 Hoje eu trabalho Suporte técnico II, Sistemas/Software e aplicações Cloud. 
-- 🌱 Estou estudando HTML5, Css3, Javascript, NodeJS, e TypeScript.
+- 🌱 HTML5, Css3, Javascript, NodeJS, e TypeScript.
 - 📫 Contate-me no e-mail: Felipe.Foyes@outlook.com
 
 
