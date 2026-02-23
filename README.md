@@ -2,7 +2,7 @@
 
 - Testes Manuais e automatizados
 - 🌱 Javascript, Cypress, playwright, API Rest , Postman, Bruno
-- 📫 Contate-me no e-mail: Felipe.Foyes@outlook.com
+- 📫 e-mail: Felipe.Foyes@outlook.com
 
 
 <div align="left">
